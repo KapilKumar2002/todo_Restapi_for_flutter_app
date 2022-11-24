@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-jh43s=x%v_o7@q2g)-v$07c033k%i-tblxiw%ku7%#x_(ex+3g
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.0.2.2','127.0.0.1','kapilkumar2002.github.io/todo_Restapi_for_flutter_app/']
+ALLOWED_HOSTS = ['10.0.2.2','127.0.0.1','limitless-citadel-45775.herokuapp.com']
 
 
 # Application definition
